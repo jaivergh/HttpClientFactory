@@ -1,0 +1,14 @@
+C:\Users\JAIVER\source\VisualStudioCode\TestWeb21\bin\Debug\netcoreapp2.1\TestWeb21.deps.json
+C:\Users\JAIVER\source\VisualStudioCode\TestWeb21\bin\Debug\netcoreapp2.1\TestWeb21.runtimeconfig.json
+C:\Users\JAIVER\source\VisualStudioCode\TestWeb21\bin\Debug\netcoreapp2.1\TestWeb21.runtimeconfig.dev.json
+C:\Users\JAIVER\source\VisualStudioCode\TestWeb21\bin\Debug\netcoreapp2.1\TestWeb21.dll
+C:\Users\JAIVER\source\VisualStudioCode\TestWeb21\bin\Debug\netcoreapp2.1\TestWeb21.pdb
+C:\Users\JAIVER\source\VisualStudioCode\TestWeb21\obj\Debug\netcoreapp2.1\TestWeb21.csprojAssemblyReference.cache
+C:\Users\JAIVER\source\VisualStudioCode\TestWeb21\obj\Debug\netcoreapp2.1\TestWeb21.csproj.CoreCompileInputs.cache
+C:\Users\JAIVER\source\VisualStudioCode\TestWeb21\obj\Debug\netcoreapp2.1\TestWeb21.RazorAssemblyInfo.cache
+C:\Users\JAIVER\source\VisualStudioCode\TestWeb21\obj\Debug\netcoreapp2.1\TestWeb21.RazorAssemblyInfo.cs
+C:\Users\JAIVER\source\VisualStudioCode\TestWeb21\obj\Debug\netcoreapp2.1\TestWeb21.AssemblyInfoInputs.cache
+C:\Users\JAIVER\source\VisualStudioCode\TestWeb21\obj\Debug\netcoreapp2.1\TestWeb21.AssemblyInfo.cs
+C:\Users\JAIVER\source\VisualStudioCode\TestWeb21\obj\Debug\netcoreapp2.1\TestWeb21.RazorTargetAssemblyInfo.cache
+C:\Users\JAIVER\source\VisualStudioCode\TestWeb21\obj\Debug\netcoreapp2.1\TestWeb21.dll
+C:\Users\JAIVER\source\VisualStudioCode\TestWeb21\obj\Debug\netcoreapp2.1\TestWeb21.pdb
